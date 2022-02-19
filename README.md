@@ -4,7 +4,7 @@
 se creo este proyecto de programacion con esta libreria.
 estan en el mismo eclipse Marketplace, buscar y instalar.
 
-se requiere solamente de esta libreria.
+se requiere solamente de esta libreria:
     - WindowsBuilder
 
 el lenguaje es: 
