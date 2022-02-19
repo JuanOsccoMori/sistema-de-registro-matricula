@@ -32,3 +32,9 @@ Esta es la configuracion que use para que se crearan los archivos java JFrame:
 
 
 ![3](https://user-images.githubusercontent.com/58866695/154783731-b8ba3584-69a6-486b-abb0-3090ae9cd50a.PNG)
+
+
+## Empezando el programa
+En este archivo se encuentra el inicio del programa, es donde ejecuta el ingreso a la aplicacion.
+
+![4](https://user-images.githubusercontent.com/58866695/154784323-7c652724-f075-4862-aacc-9ff5da107706.PNG)
